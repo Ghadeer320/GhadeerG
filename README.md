@@ -1,3 +1,6 @@
+My First Time Use Terminal
+
+
 First I open Terminal.
 Then I use pwd command to writes the full pathname of my current working.”pwd”
 Then I go to desktop “cd desktop” 
@@ -10,7 +13,7 @@ Then I add the URL for the remote repository where my local repository will be p
 Finally I push the changes in my local repository to GitHub.”git push”
 And I use “git status”  a lot to see my file status
 Then I did the same steps to create html file inside my new Git repository GhadeerG
-And the last thing I did is open Readme.me file to describe my work “open .” and i will commit to save the change.
+And the last thing I did is open Readme.me file to describe my work “open .” and i will commit to save the change also I will push “git push”.
  
 
 
